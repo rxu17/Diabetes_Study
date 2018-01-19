@@ -25,6 +25,7 @@ The project has the following main steps:
 
 ## Description
 The dataset is taken from the [UCI Machine Learning site.](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes)
+
 Attributes:
 - 1. Number of times pregnant
 - 2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
